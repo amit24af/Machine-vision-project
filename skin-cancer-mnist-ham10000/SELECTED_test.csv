@@ -1,0 +1,37 @@
+lesion_id,image_id,dx,dx_type,age,sex,localization
+HAM_0002867,ISIC_0033536,akiec,histo,40.0,male,abdomen
+HAM_0002867,ISIC_0033550,akiec,histo,40.0,male,abdomen
+HAM_0007471,ISIC_0032536,bcc,histo,45.0,male,abdomen
+HAM_0007471,ISIC_0033483,bcc,histo,45.0,male,abdomen
+HAM_0006601,ISIC_0031511,bkl,consensus,80.0,male,abdomen
+HAM_0002894,ISIC_0033056,bkl,histo,40.0,female,abdomen
+HAM_0003081,ISIC_0033860,df,consensus,45.0,male,abdomen
+HAM_0002956,ISIC_0032637,mel,histo,35.0,female,abdomen
+HAM_0002956,ISIC_0032993,mel,histo,35.0,female,abdomen
+HAM_0000070,ISIC_0028513,nv,histo,40.0,male,abdomen
+HAM_0001961,ISIC_0031076,nv,histo,25.0,female,abdomen
+HAM_0004862,ISIC_0032057,vasc,consensus,55.0,female,abdomen
+HAM_0001238,ISIC_0032409,vasc,consensus,80.0,male,abdomen
+HAM_0006442,ISIC_0032947,akiec,histo,70.0,male,hand
+HAM_0006442,ISIC_0033000,akiec,histo,70.0,male,hand
+HAM_0003191,ISIC_0029524,bcc,histo,65.0,female,hand
+HAM_0000113,ISIC_0029548,bkl,histo,75.0,female,hand
+HAM_0002691,ISIC_0031345,bkl,histo,80.0,female,hand
+HAM_0004699,ISIC_0028255,nv,histo,10.0,female,hand
+HAM_0002147,ISIC_0029537,nv,consensus,5.0,female,hand
+HAM_0007020,ISIC_0030070,vasc,consensus,75.0,female,hand
+HAM_0007020,ISIC_0031719,vasc,consensus,75.0,female,hand
+HAM_0005766,ISIC_0031738,akiec,histo,85.0,male,upper extremity
+HAM_0001337,ISIC_0032455,akiec,histo,80.0,male,upper extremity
+HAM_0003094,ISIC_0029647,bcc,histo,75.0,male,upper extremity
+HAM_0007289,ISIC_0031263,bcc,histo,80.0,male,upper extremity
+HAM_0003743,ISIC_0033592,bkl,histo,50.0,male,upper extremity
+HAM_0003743,ISIC_0033646,bkl,histo,50.0,male,upper extremity
+HAM_0000827,ISIC_0031443,df,consensus,60.0,male,upper extremity
+HAM_0001785,ISIC_0034169,df,histo,50.0,male,upper extremity
+HAM_0004853,ISIC_0032695,mel,histo,80.0,male,upper extremity
+HAM_0004011,ISIC_0033023,mel,histo,80.0,male,upper extremity
+HAM_0002417,ISIC_0032943,nv,histo,,male,upper extremity
+HAM_0000855,ISIC_0034013,nv,histo,45.0,male,upper extremity
+HAM_0003862,ISIC_0033031,vasc,histo,45.0,male,upper extremity
+HAM_0003862,ISIC_0033458,vasc,histo,45.0,male,upper extremity
