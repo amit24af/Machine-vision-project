@@ -1,21 +1,21 @@
 Focused split for hand / upper extremity / abdomen
 abdomen / akiec: total=5, train=3, test=2
-abdomen / bcc: total=5, train=3, test=2
-abdomen / bkl: total=5, train=3, test=2
+abdomen / bcc: total=10, train=3, test=7
+abdomen / bkl: total=10, train=3, test=7
 abdomen / df: total=4, train=3, test=1
-abdomen / mel: total=5, train=3, test=2
-abdomen / nv: total=5, train=3, test=2
-abdomen / vasc: total=5, train=3, test=2
-hand / akiec: total=5, train=3, test=2
+abdomen / mel: total=10, train=3, test=7
+abdomen / nv: total=10, train=3, test=7
+abdomen / vasc: total=10, train=3, test=7
+hand / akiec: total=10, train=3, test=7
 hand / bcc: total=2, train=1, test=1
-hand / bkl: total=5, train=3, test=2
+hand / bkl: total=10, train=3, test=7
 hand / mel: total=1, train=1, test=0
-hand / nv: total=5, train=3, test=2
+hand / nv: total=10, train=3, test=7
 hand / vasc: total=5, train=3, test=2
-upper extremity / akiec: total=5, train=3, test=2
-upper extremity / bcc: total=5, train=3, test=2
-upper extremity / bkl: total=5, train=3, test=2
-upper extremity / df: total=5, train=3, test=2
-upper extremity / mel: total=5, train=3, test=2
-upper extremity / nv: total=5, train=3, test=2
-upper extremity / vasc: total=5, train=3, test=2
+upper extremity / akiec: total=10, train=3, test=7
+upper extremity / bcc: total=10, train=3, test=7
+upper extremity / bkl: total=10, train=3, test=7
+upper extremity / df: total=10, train=3, test=7
+upper extremity / mel: total=10, train=3, test=7
+upper extremity / nv: total=10, train=3, test=7
+upper extremity / vasc: total=10, train=3, test=7

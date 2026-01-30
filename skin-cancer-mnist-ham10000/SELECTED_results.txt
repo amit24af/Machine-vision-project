@@ -1,30 +1,30 @@
 Focused evaluation for hand / upper extremity / abdomen
 Train images: 56
-Test images: 36
-Accuracy: 0.3611
-AUC malignant vs benign: 0.8016
+Test images: 111
+Accuracy: 0.4144
+AUC malignant vs benign: 0.7717
 Per-localization: 
-  abdomen: train=21, test=13, accuracy=0.3077, auc=0.4286
-  hand: train=14, test=9, accuracy=0.6667, auc=0.8333
-  upper extremity: train=21, test=14, accuracy=0.2857, auc=0.8958
+  abdomen: train=21, test=38, accuracy=0.3158, auc=0.7330
+  hand: train=14, test=24, accuracy=0.5000, auc=0.7422
+  upper extremity: train=21, test=49, accuracy=0.2041, auc=0.6446
 Split counts per localization and dx:
 abdomen / akiec: total=5, train=3, test=2
-abdomen / bcc: total=5, train=3, test=2
-abdomen / bkl: total=5, train=3, test=2
+abdomen / bcc: total=10, train=3, test=7
+abdomen / bkl: total=10, train=3, test=7
 abdomen / df: total=4, train=3, test=1
-abdomen / mel: total=5, train=3, test=2
-abdomen / nv: total=5, train=3, test=2
-abdomen / vasc: total=5, train=3, test=2
-hand / akiec: total=5, train=3, test=2
+abdomen / mel: total=10, train=3, test=7
+abdomen / nv: total=10, train=3, test=7
+abdomen / vasc: total=10, train=3, test=7
+hand / akiec: total=10, train=3, test=7
 hand / bcc: total=2, train=1, test=1
-hand / bkl: total=5, train=3, test=2
+hand / bkl: total=10, train=3, test=7
 hand / mel: total=1, train=1, test=0
-hand / nv: total=5, train=3, test=2
+hand / nv: total=10, train=3, test=7
 hand / vasc: total=5, train=3, test=2
-upper extremity / akiec: total=5, train=3, test=2
-upper extremity / bcc: total=5, train=3, test=2
-upper extremity / bkl: total=5, train=3, test=2
-upper extremity / df: total=5, train=3, test=2
-upper extremity / mel: total=5, train=3, test=2
-upper extremity / nv: total=5, train=3, test=2
-upper extremity / vasc: total=5, train=3, test=2
+upper extremity / akiec: total=10, train=3, test=7
+upper extremity / bcc: total=10, train=3, test=7
+upper extremity / bkl: total=10, train=3, test=7
+upper extremity / df: total=10, train=3, test=7
+upper extremity / mel: total=10, train=3, test=7
+upper extremity / nv: total=10, train=3, test=7
+upper extremity / vasc: total=10, train=3, test=7
